@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند آکادمیک · پروژه و آموزش دانشگاهی">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#253906"/>
+    <stop offset="0.55" stop-color="#49700c"/>
+    <stop offset="1" stop-color="#6aa312"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#a3d950" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#8acf22" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#639911" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(400,260)">
+      <path d="M0 320 C 100 260 240 270 330 310 L330 60 C 240 20 100 30 0 90 Z" fill="white" opacity="0.16"/>
+      <path d="M330 310 C 420 270 560 260 660 320 L660 90 C 560 30 420 20 330 60 Z" fill="white" opacity="0.3"/>
+      <path d="M0 320 L0 110 C 100 50 240 60 330 110 L330 300 C 240 260 100 250 0 320 Z" fill="none" stroke="white" stroke-width="3" opacity="0.8"/>
+      <path d="M0 200 C 100 150 240 150 330 200" stroke="white" stroke-width="2" stroke-opacity="0.5" fill="none"/>
+      <path d="M0 260 C 100 210 240 210 330 260" stroke="white" stroke-width="2" stroke-opacity="0.4" fill="none"/>
+    </g>
+    <g transform="translate(660,140)">
+      <path d="M0 70 L-40 20 L200 -70 L240 -20 Z" fill="white" opacity="0.9"/>
+      <path d="M240 -20 L240 70 L-40 70 L-40 20" fill="none" stroke="white" stroke-width="3" opacity="0.85"/>
+      <rect x="-46" y="66" width="292" height="16" rx="6" fill="white" opacity="0.55"/>
+      <g stroke="white" stroke-opacity="0.5" stroke-width="3">
+        <line x1="70" y1="74" x2="94" y2="120" opacity="0.4"/>
+        <line x1="190" y1="56" x2="210" y2="112" opacity="0.4"/>
+      </g>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">unicai.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">آکادمیک · پروژه و آموزش دانشگاهی</text>
+  </g>
+</svg>

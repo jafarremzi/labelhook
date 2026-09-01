@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند هوش مصنوعی · کسب‌وکار مبتنی بر AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#3d1443"/>
+    <stop offset="0.55" stop-color="#772783"/>
+    <stop offset="1" stop-color="#ae38bf"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#e374f3" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#db4ff0" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#a335b3" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(0,0)">
+      <defs>
+        <linearGradient id="nn" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#e374f3"/>
+          <stop offset="1" stop-color="white"/>
+        </linearGradient>
+      </defs>
+      <g stroke="white" stroke-opacity="0.35" stroke-width="2" fill="none">
+        <line x1="600" y1="200" x2="300" y2="420"/><line x1="600" y1="200" x2="760" y2="380"/>
+        <line x1="600" y1="200" x2="500" y2="460"/><line x1="300" y1="420" x2="500" y2="460"/>
+        <line x1="760" y1="380" x2="500" y2="460"/><line x1="300" y1="420" x2="900" y2="360"/>
+        <line x1="500" y1="460" x2="900" y2="620"/><line x1="760" y1="380" x2="900" y2="620"/>
+        <line x1="300" y1="420" x2="240" y2="660"/><line x1="240" y1="660" x2="500" y2="460"/>
+        <line x1="500" y1="460" x2="120" y2="600"/><line x1="900" y1="620" x2="1020" y2="500"/>
+      </g>
+      <g fill="white">
+        <circle cx="600" cy="200" r="16" opacity="0.95"/>
+        <circle cx="300" cy="420" r="11" opacity="0.8"/><circle cx="760" cy="380" r="11" opacity="0.8"/>
+        <circle cx="500" cy="460" r="13" opacity="0.9"/><circle cx="900" cy="360" r="9" opacity="0.7"/>
+        <circle cx="900" cy="620" r="10" opacity="0.7"/><circle cx="240" cy="660" r="9" opacity="0.6"/>
+        <circle cx="120" cy="600" r="8" opacity="0.6"/><circle cx="1020" cy="500" r="8" opacity="0.6"/>
+      </g>
+      <g fill="#e47ef4">
+        <circle cx="600" cy="200" r="36" opacity="0.35"/>
+        <circle cx="600" cy="200" r="56" opacity="0.18"/>
+      </g>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">arangai.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">هوش مصنوعی · کسب‌وکار مبتنی بر AI</text>
+  </g>
+</svg>

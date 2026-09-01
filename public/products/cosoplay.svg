@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند زیبایی · سالن و آرایش عروس">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#42142b"/>
+    <stop offset="0.55" stop-color="#822854"/>
+    <stop offset="1" stop-color="#bd3a7a"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#f176b3" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#ed519e" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#b13673" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(560,340) rotate(-18)">
+      <ellipse cx="0" cy="0" rx="70" ry="210" fill="none" stroke="white" stroke-width="7" opacity="0.95" transform="rotate(30)"/>
+      <ellipse cx="0" cy="0" rx="70" ry="210" fill="none" stroke="white" stroke-width="4" opacity="0.5" transform="rotate(-30)"/>
+      <ellipse cx="0" cy="0" rx="46" ry="160" fill="none" stroke="#f388bd" stroke-width="6" opacity="0.9" transform="rotate(6)"/>
+      <ellipse cx="0" cy="0" rx="22" ry="120" fill="white" opacity="0.18" transform="rotate(6)"/>
+    </g>
+    <g transform="translate(760,260)">
+      <path d="M0 -20 L5 -6 L20 -4 L9 6 L12 22 L0 14 L-12 22 L-9 6 L-20 -4 L-5 -6 Z" fill="white" opacity="0.9"/>
+    </g>
+    <g transform="translate(390,190)">
+      <path d="M0 -14 L3.5 -4 L14 -2.5 L6 4.5 L8 15 L0 10 L-8 15 L-6 4.5 L-14 -2.5 L-3.5 -4 Z" fill="white" opacity="0.6"/>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">cosoplay.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">زیبایی · سالن و آرایش عروس</text>
+  </g>
+</svg>

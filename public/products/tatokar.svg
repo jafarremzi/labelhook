@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند تتو · رزرو نوبت تتوکارها">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#44121a"/>
+    <stop offset="0.55" stop-color="#862334"/>
+    <stop offset="1" stop-color="#c3324b"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#f76f86" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#f54966" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#b72f47" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(560,330)" opacity="0.95">
+      <path d="M-220 -90 C -60 -190 60 40 220 -40 S 260 120 120 190" stroke="white" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.92"/>
+      <path d="M-260 40 C -140 -30 -60 140 80 60 S 220 200 100 260" stroke="white" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+      <path d="M-140 -160 C -40 -240 80 -60 180 -140 S 300 -30 200 70" stroke="#f7798e" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.85"/>
+      <circle cx="150" cy="-150" r="16" fill="white" opacity="0.85"/>
+      <circle cx="-190" cy="-90" r="9" fill="white" opacity="0.5"/>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">tatokar.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">تتو · رزرو نوبت تتوکارها</text>
+  </g>
+</svg>

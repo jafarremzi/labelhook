@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند رمزارز · خدمات مالی دیجیتال">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#271a45"/>
+    <stop offset="0.55" stop-color="#4c3387"/>
+    <stop offset="1" stop-color="#6f4ac5"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#a885f8" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#9164f6" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#6845b9" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(0,120)">
+      <path d="M0 560 Q 150 420 300 500 T 600 500 T 900 500 T 1200 500 L1200 900 L0 900 Z" fill="white" opacity="0.05"/>
+      <path d="M0 630 Q 150 490 300 570 T 600 570 T 900 570 T 1200 570 L1200 900 L0 900 Z" fill="white" opacity="0.08"/>
+      <path d="M0 700 Q 150 560 300 640 T 600 640 T 900 640 T 1200 640 L1200 900 L0 900 Z" fill="white" opacity="0.12"/>
+      <g transform="translate(560,330)">
+        <circle cx="0" cy="0" r="150" fill="none" stroke="white" stroke-opacity="0.35" stroke-width="2"/>
+        <circle cx="0" cy="0" r="105" fill="none" stroke="white" stroke-opacity="0.5" stroke-width="2"/>
+        <circle cx="0" cy="0" r="60" fill="none" stroke="white" stroke-width="2.5" stroke-opacity="0.8"/>
+        <path d="M60 0 A60 60 0 0 1 -60 0" fill="white" opacity="0.85"/>
+        <circle cx="-150" cy="-150" r="26" fill="none" stroke="white" stroke-width="3" opacity="0.6"/>
+        <circle cx="150" cy="-150" r="18" fill="none" stroke="white" stroke-width="3" opacity="0.5"/>
+      </g>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">oilsoup.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">رمزارز · خدمات مالی دیجیتال</text>
+  </g>
+</svg>

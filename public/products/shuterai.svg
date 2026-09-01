@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند گردشگری · تورهای ماجراجویانه">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#043424"/>
+    <stop offset="0.55" stop-color="#096647"/>
+    <stop offset="1" stop-color="#0d9467"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#4ccba1" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#1cbd87" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#0c8b61" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(0,80)">
+      <circle cx="700" cy="220" r="78" fill="#40c79a" opacity="0.9"/>
+      <circle cx="700" cy="220" r="78" fill="none" stroke="white" stroke-opacity="0.25" stroke-width="1.5"/>
+      <path d="M0 900 L0 560 L220 330 L430 560 L560 420 L760 620 L900 480 L1200 740 L1200 900 Z" fill="white" opacity="0.08"/>
+      <path d="M0 900 L0 640 L240 440 L460 640 L620 510 L860 700 L1200 560 L1200 900 Z" fill="white" opacity="0.16"/>
+      <path d="M0 900 L0 760 L260 580 L480 760 L680 630 L920 790 L1200 700 L1200 900 Z" fill="#0ea774" opacity="0.9"/>
+      <path d="M0 900 L0 840 L300 700 L520 840 L740 730 L980 860 L1200 810 L1200 900 Z" fill="#0a7854"/>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">shuterai.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">گردشگری · تورهای ماجراجویانه</text>
+  </g>
+</svg>

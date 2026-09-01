@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند نگارش · خدمات آکادمیک">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#042e41"/>
+    <stop offset="0.55" stop-color="#085b80"/>
+    <stop offset="1" stop-color="#0b84ba"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#4abcef" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#1aaaea" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#0b7caf" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(500,250)">
+      <rect x="0" y="0" width="260" height="360" rx="10" fill="#26aeeb" stroke="white" stroke-opacity="0.7" stroke-width="2.5"/>
+      <g stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round">
+        <line x1="36" y1="70" x2="224" y2="70"/><line x1="36" y1="118" x2="224" y2="118"/>
+        <line x1="36" y1="166" x2="180" y2="166"/><line x1="36" y1="214" x2="224" y2="214"/>
+        <line x1="36" y1="262" x2="150" y2="262"/>
+      </g>
+      <rect x="220" y="300" width="200" height="86" rx="8" fill="none" stroke="white" stroke-opacity="0.45" stroke-width="2"/>
+      <line x1="250" y1="330" x2="396" y2="330" stroke="white" stroke-opacity="0.4" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="250" y1="356" x2="360" y2="356" stroke="white" stroke-opacity="0.4" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+    <path d="M640 120 L520 520" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+    <path d="M520 520 L430 470 L490 400 Z" fill="white" opacity="0.9"/>
+    <path d="M520 520 L555 560 L505 545 Z" fill="white" opacity="0.7"/>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">penselai.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">نگارش · خدمات آکادمیک</text>
+  </g>
+</svg>

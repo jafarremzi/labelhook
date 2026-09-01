@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="کاور برند صنعت · خدمات فروش صنعتی">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1c2027"/>
+    <stop offset="0.55" stop-color="#37404c"/>
+    <stop offset="1" stop-color="#505d6f"/>
+  </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.9">
+    <stop offset="0" stop-color="#8b97a8" stop-opacity="0.85"/>
+    <stop offset="0.5" stop-color="#6c7b91" stop-opacity="0.35"/>
+    <stop offset="1" stop-color="#4b5768" stop-opacity="0"/>
+  </radialGradient>
+    
+  <pattern id="grain" width="34" height="34" patternUnits="userSpaceOnUse">
+    <circle cx="0" cy="0" r="1.1" fill="white" opacity="0.05"/>
+  </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#glow)"/>
+  <rect width="1200" height="900" fill="black" opacity="0.05"/>
+  <rect width="1200" height="900" fill="url(#grain)"/>
+  <rect x="28" y="28" width="1144" height="844" rx="20" fill="none" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  
+    <g transform="translate(560,380)">
+      <path d="M0 -150 A150 150 0 0 1 150 0 M0 150 A150 150 0 0 1 -150 0" stroke="white" stroke-opacity="0.25" stroke-width="2" fill="none"/>
+      <g transform="rotate(15)">
+        <rect x="-12" y="-260" width="24" height="520" rx="8" fill="white" opacity="0.35"/>
+        <rect x="-180" y="-12" width="360" height="24" rx="8" fill="white" opacity="0.35"/>
+        <rect x="-12" y="-210" width="24" height="420" rx="8" fill="white" opacity="0.2"/>
+        <rect x="-150" y="-12" width="300" height="24" rx="8" fill="white" opacity="0.2"/>
+      </g>
+      <circle r="150" fill="none" stroke="white" stroke-width="4" opacity="0.95"/>
+      <circle r="108" fill="none" stroke="white" stroke-width="2.5" opacity="0.7"/>
+      <circle r="30" fill="white" opacity="0.9"/>
+      <g fill="#8b97a8">
+        <circle cx="150" cy="0" r="10"/><circle cx="-150" cy="0" r="10"/>
+        <circle cx="0" cy="150" r="10"/><circle cx="0" cy="-150" r="10"/>
+        <circle cx="106" cy="106" r="10"/><circle cx="-106" cy="-106" r="10"/>
+        <circle cx="106" cy="-106" r="10"/><circle cx="-106" cy="106" r="10"/>
+      </g>
+    </g>
+  <g font-family="system-ui, Tahoma, sans-serif">
+    <text x="60" y="120" font-size="22" letter-spacing="6" fill="white" fill-opacity="0.55">LABELHOOK</text>
+    <text x="60" y="830" font-size="44" font-weight="700" fill="white">ironiai.com</text>
+    <text x="60" y="874" font-size="24" fill="white" fill-opacity="0.75">صنعت · خدمات فروش صنعتی</text>
+  </g>
+</svg>
